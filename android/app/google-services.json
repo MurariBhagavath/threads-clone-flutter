@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405312630465",
+    "project_id": "threads-clone-58bee",
+    "storage_bucket": "threads-clone-58bee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405312630465:android:45716f539fa2d962296e40",
+        "android_client_info": {
+          "package_name": "com.example.threads_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405312630465-7jhmh29f4mnfklf4nbbjlp896t8gfgtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7L_WttCWzQJsME_FnP1c0Mav8dT8ajXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405312630465-7jhmh29f4mnfklf4nbbjlp896t8gfgtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
